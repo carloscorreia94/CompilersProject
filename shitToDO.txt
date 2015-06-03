@@ -1,0 +1,21 @@
+TESTS PASSED:
+TEST1
+TEST4
+TEST5
+TEST6
+
+
+TESTS PASSED PARSER(FAILED SEMANTIC):
+-> DOUBLE NODE NOT OUTPUTING CORRECTLY! TEST 3
+->STRINGS WITH MULTIPLE "s" "tr" "ing" only saving last token. TEST 2
+->UNDECLARED VARIABLE TEST7
+
+
+
+LEX:
+/0
+concatencacao de strings (maybe yacc?)
+
+
+yasm -felf <main.asm>
+ld <main.o> -o <main> -lrts
