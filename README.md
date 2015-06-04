@@ -2,7 +2,7 @@
 
 **DISCLAIMER**
 
-This project is incomplete, only reaching 50% or less of the required final tests for the course, but it does all the simple taks and global/local scope variable manipulation. Still, our grade was 11/20, and its just some reference. So feel free to Fork the same and contribute if you wish, as that for me, I stopped working in this project after the evalution ended.
+This project is incomplete, only reaching 50% or less of the required final tests for the course, but it does all the simple taks and global/local scope variable manipulation. Still, our grade was 11/20, and this repo just serves as some reference in Compiler Practice. So feel free to Fork the same and contribute if you wish, because I stopped working in this project after the evalution ended.
 
 
 The Project Specification is here: 
@@ -34,5 +34,5 @@ password: linux
 
 
 Any doubt, you can reach me by pm.correia.carlos@gmail.com
-Happy Compiling the compiler (:
+Happy Compiling the compiler (good luck I mean)
 
